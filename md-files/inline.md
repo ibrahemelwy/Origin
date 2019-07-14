@@ -13,3 +13,10 @@ is a machine that is meant to be installed after the cartoning machine to apply 
   - Print Heads
   - Printing Sensor
   - printing Cables "Print Head Cables +I/O Cable + Power Cable"
+  - Slider
+### RTC " BBB OR PLC "
+### Pnumatics for Reject:
+  - Nozzel
+  - Valve
+  - Regulator
+  - Piping & Fits 
