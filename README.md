@@ -5,5 +5,7 @@
   - [Offline Machine](/md-files/offline.md)
 - [Aggregation Machine](/md-files/Aggregation.md)
 
--
--
+## Allmed Project Assesment
+  ### Main Problem Provided Through Osama
+  - Vibration During Printing Because of the Length of the Bracket VS Print
+  - 
