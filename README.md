@@ -36,12 +36,12 @@
 
 ### Tools & Devices
 - hand-held Scanner
-- AVoMeter
-- Screw-drivers Electronic
-- Allen Key Set
-- Pair Of 10 MM Wrenchs
+- AVoMeter "Provided By naghy"
+- Screw-drivers Electronic "Provided By Naghy"
+- Allen Key Set "Provided By Naghy"
+- Pair Of 10 MM Wrenchs "Provided By Naghy"
 - KeyBoard in-site & Mouse needed
-- Wifi Dongle
+- Wifi Dongle "Provided By Naghy"
 - Cartidges " 2 old Pairs From Omar "
-- 
+
 
