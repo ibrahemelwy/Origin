@@ -26,7 +26,7 @@
  - X2 Limit Switch "Obselet"
  - X3 Reject verification
  - X4 Camera Sensor "Archa"
- - X5 Camera Encoder "REa"
+ - X5 Camera Encoder "Autonics"
  - X6 Light
  - X7 Machine Sensor "Printer Trigger Archa Fork Sensor  "
  - x8 Reject Valve
@@ -43,5 +43,14 @@
 - KeyBoard in-site & Mouse needed
 - Wifi Dongle "Provided By Naghy"
 - Cartidges " 2 old Pairs From Omar "
-
+### Site Results For 22th july 
+- 1st the focus was needed to be adjusted 
+- lens fixed Using Wire Tape 
+- WOD is good as it needs to focus only on the spot of printing 
+- Exposure Time Was 1500 which is to high so i reduced it to 550
+- Wrinkle Problem needs to be adjusted 
+- double Trigger in case of Bottle in Fig A 
+- SN refuse even after Reading Data-Matrix After Contact hitham He told Me that this is because of the captured serial doesn't exist in camera qeue or because of double Trigger 
+- For now T&T System is good from the basic concept But needs the previuos adjustment to be ready for Validtation 
+- Hithams 1st Software Had abug that after Capture the image no ROI defined on the Image so It's Reject So I had To return to the old backup And Wait for Hithams new Software 
 
