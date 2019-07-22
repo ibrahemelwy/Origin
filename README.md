@@ -44,8 +44,8 @@
 - Wifi Dongle "Provided By Naghy"
 - Cartidges " 2 old Pairs From Omar "
 ### Site Results For 22th july 
-- 1st the focus was needed to be adjusted 
-- lens fixed Using Wire Tape 
+- 1st the focus was needed to be adjusted ==> done 
+- lens fixed Using Wire Tape ==> done 
 - WOD is good as it needs to focus only on the spot of printing 
 - Exposure Time Was 1500 which is to high so i reduced it to 550
 - Wrinkle Problem needs to be adjusted 
