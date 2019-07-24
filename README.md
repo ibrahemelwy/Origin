@@ -52,5 +52,14 @@
 - double Trigger in case of Bottle in Fig A 
 - SN refuse even after Reading Data-Matrix After Contact hitham He told Me that this is because of the captured serial doesn't exist in camera qeue or because of double Trigger 
 - For now T&T System is good from the basic concept But needs the previuos adjustment to be ready for Validtation 
-- Hithams 1st Software Had abug that after Capture the image no ROI defined on the Image so It's Reject So I had To return to the old backup And Wait for Hithams new Software 
-
+- Hithams 1st Software Had abug that after Capture the image no ROI defined on the Image so It's Reject So I had To return to the old backup And Wait for Hithams new Software
+### Site Results For 24 JULY
+- Sliding Plate For Printer "Fixed"
+- Reject Verification Senesor needs to be soldered to the plug 'fixitaion is iin process'
+- 1st Error Happened Due To unclean Belt So I asked To clean the belt percetage for now 8 : 2 which means 20%
+- ink used were P26 this Could be main issu of ink Difussing
+- ink P0 is not Good
+- after Returning to the P26 Print Start To be Good Again
+- a slight shifting started to Appear After Checking i found that the Belt is Not Well Cleaned So I asked them to Clean It Again
+- Cleaning For the 3rd Time Act AS main Problem
+- the Error of diffusing ink Was Because of that the Label Was In Contact With the Slider So I tried Out to Adjust the Printer Again For Now It's Good Waiting the Cleaning To start a patch of 100 Bottle Continous  
