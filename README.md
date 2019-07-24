@@ -63,3 +63,11 @@
 - a slight shifting started to Appear After Checking i found that the Belt is Not Well Cleaned So I asked them to Clean It Again
 - Cleaning For the 3rd Time Act AS main Problem
 - the Error of diffusing ink Was Because of that the Label Was In Contact With the Slider So I tried Out to Adjust the Printer Again For Now It's Good Waiting the Cleaning To start a patch of 100 Bottle Continous  
+- we started to use a fine Sand-paper To Clean the Belt as the Iso With the Iron Brush is Not Good
+- Haitham Software Without Buffer Is Working Fine Till NOw NOthingh Appeared
+- Last Run Worked Fine With a Percentage Of 84.4: 15.6 With actual Bottels Of 92 : 17
+- For Now I'm Waiting the Second Patch TO Get from the Auto-clave So As To I Could Start the Second Run With ASAS Number Of Bottels
+- working with the bottels at the very hot State "Just Recieved From the Auto ClaV"is not Good
+- Now I Found A Asynchronization Between Arca & Zen Jet so I should Start To Work On
+- the succseful Test That I ASsumed that the Diff. is 0.5M/min from arca to zen-jet so I set Arca at 20 M/min and Zen-jet 19.5 M/min With Belt Inverter On A set point of  34.1 Which Gave Me Accurate Position For about 75 Consecutive Good Bottels.
+-
