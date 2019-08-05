@@ -71,3 +71,22 @@
 - working with the bottels at the very hot State "Just Recieved From the Auto ClaV"is not Good
 - Now I Found A Asynchronization Between Arca & Zen Jet so I should Start To Work On
 - the succseful Test That I ASsumed that the Diff. is 0.5M/min from arca to zen-jet so I set Arca at 20 M/min and Zen-jet 19.5 M/min With Belt Inverter On A set point of  34.1 Which Gave Me Accurate Position For about 75 Consecutive Good Bottels.
+### Site Results For 4 Augest
+  - RJV Sensor Has Fixed the Eye Porus Opened for the Sensor need To Be Bigger
+  - triggering problem Because of the Encoder Double Checked the Wires To Make Sure No AC Wires alonge the encoder Wire
+  - Arca Speed Decreased From 20m/min to 19m/min to overcome the wrinkels
+  - Forget to decrease the speed in the printer "Needed to be done 1st thing tomorrow morning"
+### Prepartions needed for 5 Aug
+  - Getting Encoders From Omar el naghy
+  - charge the Drill
+  - Ask Haitham for Encoder ticks at Software
+  - ask Haitham for RJV Revise RJV @ RT Firmware
+### Plane For 5 Aug
+- Retest the Encoder Used Yesterday
+- if Encoder Fails Will Replace the encoder with new one with low Precsion Tiks 150 Tick
+- if the low Precsion encoder fail will Replace Them With a Reajet Encoder With HIgh Precsion Ticks 5000 Tick "Not Recomended"
+- working on getting the Camera As Close AS Possible from Arca So that i can decrease the Qeue "Will Decrease the Reject Percentage due to printing errors"
+- test a consequtive  500 Bottle with no stops
+- download the software taken from lotfy & Haitham and Don't forget to add "tick_mm" VARRCHAR(45) column in "rt_config" table in DB
+### 5 Aug Results
+- 
