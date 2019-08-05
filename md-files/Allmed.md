@@ -89,4 +89,7 @@
 - test a consequtive  500 Bottle with no stops
 - download the software taken from lotfy & Haitham and Don't forget to add "tick_mm" VARRCHAR(45) column in "rt_config" table in DB
 ### 5 Aug Results
+  - encoder problem was it needed to attach to the belt more firm as contact point with the belt was not enough
+  - printing and fedding synchronizzation after decreasing the belt speed was not good so i had to get back to the old speeds for the arca & Printer and raise the VFd Set point to 34.9 so the conveyor could catch the arca
+  - other problem with the triggering was the roller underneath the arca wich is fixed to stainless bracket the smooth surface of the stainless help the screw and nut to be untighten by the mean of friction with bottle
   - 
