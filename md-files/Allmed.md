@@ -92,4 +92,5 @@
   - encoder problem was it needed to attach to the belt more firm as contact point with the belt was not enough
   - printing and fedding synchronizzation after decreasing the belt speed was not good so i had to get back to the old speeds for the arca & Printer and raise the VFd Set point to 34.9 so the conveyor could catch the arca
   - other problem with the triggering was the roller underneath the arca wich is fixed to stainless bracket the smooth surface of the stainless help the screw and nut to be untighten by the mean of friction with bottle
-  - 
+  - Synchronization between printer and line and arca is mess
+     An encoder should be setup on arca and connected to zenjet 
