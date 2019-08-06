@@ -93,4 +93,20 @@
   - printing and fedding synchronizzation after decreasing the belt speed was not good so i had to get back to the old speeds for the arca & Printer and raise the VFd Set point to 34.9 so the conveyor could catch the arca
   - other problem with the triggering was the roller underneath the arca wich is fixed to stainless bracket the smooth surface of the stainless help the screw and nut to be untighten by the mean of friction with bottle
   - Synchronization between printer and line and arca is mess
-     An encoder should be setup on arca and connected to zenjet 
+     An encoder should be setup on arca and connected to zenjet
+## things needed to close the project
+- Documents "IOQ-Wiring Diagram ...."
+- RJV Vs Authourization
+- Printing Encoder
+- Trying to decrease the Buffer between       the camera & the Printer
+- Bad Serial Because of False Trigger     after Printing the serial
+- Check the panel System to Make sure panel is ready for Validation
+### 6th Augest Plan of Action
+- Work With Osama to Make the Encoder Fixations and select the right place
+- Ask osama For the plate For the Connector
+- check the panel wiring is correct with
+  and working right along with tags
+- check the interlock & RJV Circuit
+- If the Interlock Circuit is not Exist      See How to Make it
+- Ckeck Either the VFD OR the STart Stop Circuit TO Make the integration
+- Get the data Sheet For the Integration
