@@ -110,3 +110,20 @@
 - If the Interlock Circuit is not Exist      See How to Make it
 - Ckeck Either the VFD OR the STart Stop Circuit TO Make the integration
 - Get the data Sheet For the Integration
+### 6th August Action Plane Results
+- osama Took the Dimensions & selected the proper places for the encoder 
+- Bracket for the sensor annd the reject valve will be designed & manufactered By osama 
+- a smaller HDMi Cable Should be installed than the installed one 
+- panel need to be tided up 
+- the Authorization Signal is Already Exist needs Only TO Make a new Cable From the Side of junction Box other side already have a Connection node
+- lotfy worked on the RJV code Some issues started to show off it's root cause was that the loop were already disabled in the  TNT software
+
+### 7th August action Plane
+- purchase HDMI 1 meter Long With good Quality
+- review the data for the Printer to make the Encoder connection
+![Printing_encoder_circuit](/Img/Pr_Enc.png)
+- start the Fixation AsAs Brackets Arrive
+- Moving Camera Towards the Printer TO Decrease the Buffer Between the Camera And the Printer
+- Make a Cable To Connect the system With Belt (Authorization)
+- Setting the New Printing Setting so as to Start a printing trial
+- 
