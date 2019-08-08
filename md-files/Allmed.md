@@ -126,4 +126,21 @@
 - Moving Camera Towards the Printer TO Decrease the Buffer Between the Camera And the Printer
 - Make a Cable To Connect the system With Belt (Authorization)
 - Setting the New Printing Setting so as to Start a printing trial
-- 
+### 7th August Results :
+- Printing Encoder Fixed & Circuit Integrated 
+- Authorization Circuit Integrated But We need To Modify the Motor Panel Circuit & It's DIO Programe 
+- RJV Module Tested Working Good
+- Printing Encoder Bracket Needs Some Modification 
+- After Setting the Printing Parameters Using Encoder Printing Trial Starts Printing WAs GOod But We Still Facing 2 Main Problems :
+    - Adhesive on the conveyor Belt and Rollers
+    - Bad serial On Software
+- i asked the technitian with us yesterday to Clean them & He cleaned them well 
+### **8th August Plan**
+  **Today Main Task is to Finish AS Much AS Possible to start Project Validation**  
+- Finalizing & Tidding UP the Panel 
+- Start TO Test the System Fully Integrated 
+- Test AMAP OF Bottels 
+- Working on The Reject Rates ANd Start To record the Percentage 
+### **8th August Results**
+
+
