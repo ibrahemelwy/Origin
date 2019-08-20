@@ -150,5 +150,10 @@
 - Bad Serial Issue
 - Saving Constants @ DB
 ### 20th August Plan :
+* Raising the Arca Speed TO coup the Belt Speed 
+* Checking the VFD Set Point
+* checking the bad serials Scenarios 
+* making 2 Test Batches with checking the Reject Rates
+* Authorization Interfacing
 * 
 
