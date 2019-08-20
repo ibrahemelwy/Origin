@@ -127,20 +127,28 @@
 - Make a Cable To Connect the system With Belt (Authorization)
 - Setting the New Printing Setting so as to Start a printing trial
 ### 7th August Results :
-- Printing Encoder Fixed & Circuit Integrated 
-- Authorization Circuit Integrated But We need To Modify the Motor Panel Circuit & It's DIO Programe 
+- Printing Encoder Fixed & Circuit Integrated
+- Authorization Circuit Integrated But We need To Modify the Motor Panel Circuit & It's DIO Programe
 - RJV Module Tested Working Good
-- Printing Encoder Bracket Needs Some Modification 
+- Printing Encoder Bracket Needs Some Modification
 - After Setting the Printing Parameters Using Encoder Printing Trial Starts Printing WAs GOod But We Still Facing 2 Main Problems :
     - Adhesive on the conveyor Belt and Rollers
     - Bad serial On Software
-- i asked the technitian with us yesterday to Clean them & He cleaned them well 
+- i asked the technitian with us yesterday to Clean them & He cleaned them well
 ### **8th August Plan**
   **Today Main Task is to Finish AS Much AS Possible to start Project Validation**  
-- Finalizing & Tidding UP the Panel 
-- Start TO Test the System Fully Integrated 
-- Test AMAP OF Bottels 
-- Working on The Reject Rates ANd Start To record the Percentage 
+- Finalizing & Tidding UP the Panel
+- Start TO Test the System Fully Integrated
+- Test AMAP OF Bottels
+- Working on The Reject Rates ANd Start To record the Percentage
 ### **8th August Results**
-
+- After testing about 250 Bottel we Had 7 Bottel As a Reject 6 of them Commisioned Using Hand held Scanner
+- After Waiting for About 30 to 45 Min we started again we Found the following
+    - High Reject Rate Because of a Stretching in the Data-Matrix
+    - stretching Happens Because of arca speed is lower than the  belt speed
+- Cartidge empty ink P26
+- Bad Serial Issue
+- Saving Constants @ DB
+### 20th August Plan :
+* 
 
