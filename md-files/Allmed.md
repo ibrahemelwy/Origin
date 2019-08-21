@@ -150,10 +150,23 @@
 - Bad Serial Issue
 - Saving Constants @ DB
 ### 20th August Plan :
-* Raising the Arca Speed TO coup the Belt Speed 
+* Raising the Arca Speed TO coup the Belt Speed
 * Checking the VFD Set Point
-* checking the bad serials Scenarios 
+* checking the bad serials Scenarios
 * making 2 Test Batches with checking the Reject Rates
 * Authorization Interfacing
-* 
+### 20th August Result
+* VFD Set Point was to High 41.9 decresed it to 39.9
+* Bad Serial Secrnaios Solved
+* 1 Test Batch Have Done Succefully with 1.12 reject
+* Printing Problem was Because of the encoder was not contacting the label
+* to decrease the reject rate because of the shifting we opened the scene image were cropped
+* software ROI Needed to Be larger
+* Software Saving in DataBase not working
 
+### 21th August Plane
+* Haitham Sent the ROI Update Hope this Software Contains the Save in DB Issue 
+* Teach 2 Operators HOw they Can Control the Machine & Work-on 
+* Let Them Work & SuperVise Over Another 2 Patches Calculating the Reject Rate 
+* always Make Sure that the Main Panel Runs From Separate Power PLug 
+### 21th August Results
