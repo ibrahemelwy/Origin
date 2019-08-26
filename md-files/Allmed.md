@@ -170,3 +170,13 @@
 * Let Them Work & SuperVise Over Another 2 Patches Calculating the Reject Rate 
 * always Make Sure that the Main Panel Runs From Separate Power PLug 
 ### 21th August Results
+* 3 Foremen Were Trained on How To operate the Machine
+* 1st Patch were Done With Reject Percentage 4 % Before Comissioning 1.6 % After Comissioning
+* 2nd Patch WorkOrder & Machine Operation Were Done By the Formen With Our Guidance
+* 2nd Patch Reject Was 3:4 % Before Comission 1.6 % After Comission
+### 26th August Plan
+* Follow the IOQ Protocol in Sequence in order to make sure that all the test Cases Passed 
+* REvising the wiring Diagram
+* Making Over the harness 
+* Working on single Patch or A trial of 500 Bottle 
+* Make Sure that the UPdates Sent By lottfy is Working 
